@@ -7,7 +7,7 @@ Software Engineer
 Passionate about Embedded Systems, I'm enrolled in Carnegie Mellon's Master of Software Engineering program to expand my knowledge and skills, building upon my two years of industry experience
 
 * 🌍  I'm based in Pittsburgh, PA
-* ✉️  You can contact me at [abizer2000@gmail.com](mailto:abizer2000@gmail.com)
+* ✉️  You can contact me at [hello@abizerluqmanji.com](mailto:hello@abizerluqmanji.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
